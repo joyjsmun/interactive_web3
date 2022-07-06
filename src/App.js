@@ -51,23 +51,24 @@ function App() {
       <section className="scroll-section" id="scroll-section-2">
       <div className="sticky-elem main-message">
         <p>
-          <small>Work 1</small><br/>
+          <small>Work 1</small>
+          Creative Project
         </p>
       </div>
       <div className="sticky-elem desc-message">
-        <p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here',</p>
+        <p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.</p>
         <div className="pin"></div>
       </div>
       <div className="sticky-elem desc-message">
-        <p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here',</p>
+        <p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less</p>
         <div className="pin"></div>
       </div>
       </section>
 
       <section className="scroll-section" id="scroll-section-3">
         <p className="mid-message">
-          <strong>Contact</strong>
-          There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable
+          <strong>Contact</strong><br/>
+          There are many variations of passages of Lorem Ipsum available.
         </p>
         <p className="canvas-caption">Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.</p>
       </section>
