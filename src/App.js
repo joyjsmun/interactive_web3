@@ -6,7 +6,7 @@ const Title = styled.h1``
 
 function App() {
   return (
-    <Container>
+    <Container id="show-scene-1">
       <nav className="global-nav">
         <div className="global-nav-links">
           <a className="global-nav-item" href="#">Room</a>
