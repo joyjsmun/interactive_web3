@@ -163,10 +163,10 @@ a{
 
 }
 
-#show-scene-0 #show-selection-0 .sticky-elem,
-#show-scene-1 #show-selection-1 .sticky-elem,
-#show-scene-2 #show-selection-2 .sticky-elem,
-#show-scene-3 #show-selection-3 .sticky-elem{
+#show-scene-0 #scroll-selection-0 .sticky-elem,
+#show-scene-1 #scroll-selection-1 .sticky-elem,
+#show-scene-2 #scroll-selection-2 .sticky-elem,
+#show-scene-3 #scroll-selection-3 .sticky-elem{
     display: block;
 }
 
