@@ -154,6 +154,22 @@ a{
     background: tomato;
 }
 
+.sticky-elem{
+    position: fixed;
+    top:0;
+    left: 0;
+    width: 100%;
+    display: none;
+
+}
+
+#show-scene-0 #show-selection-0 .sticky-elem,
+#show-scene-1 #show-selection-1 .sticky-elem,
+#show-scene-2 #show-selection-2 .sticky-elem,
+#show-scene-3 #show-selection-3 .sticky-elem{
+    display: block;
+}
+
 @media (min-width:1024px) {
     #scroll-section-0 h1 {
         /* 창크기에 따라서 글자크기 변경 */
